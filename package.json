@@ -1,0 +1,21 @@
+{
+  "name": "url-shortener",
+  "description": "A PHP script to short up URL.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "/assets/app.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Julianvschijndel/url-shortener"
+  },
+  "author": {
+    "name": "Julian van Schijndel",
+    "company": "JulianDev",
+    "homepage": "https://juliandev.nl",
+    "email": "info@juliandev.nl"
+  },
+  "dependencies": {
+    "@bybas/latte-ui": "^1.8.3",
+    "vue": "^2.6.11"
+  }
+}

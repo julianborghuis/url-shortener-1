@@ -1,0 +1,18 @@
+/*
+ * Copyright (c) 2019 - 2020 Julian van Schijndel
+ * https://juliandev.nl ~ <info@juliandev.nl>
+ * https://github.com/Julianvschijndel
+ * --------------------------------------------------
+ * Url shortener.
+ * --------------------------------------------
+ * A PHP script to short up URL.
+*/
+
+.no__link {
+    text-decoration: none;
+}
+
+.coffee-button {
+    height: 30px;
+    width: 30px;
+}
