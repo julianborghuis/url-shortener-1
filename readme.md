@@ -11,7 +11,7 @@ This script will not be continued to development.
 **1.** Download this project.<br>
 **2.** Upload this project to your environment<br>
 **3.** Run `npm install` to install the needed dependencies.<br>
-**4.** Go to the index.html file.<br>
+**4.** Go to the index.php file.<br>
 **5.** Enter up a URL and hit the green button.<br>
 
 # Preview
