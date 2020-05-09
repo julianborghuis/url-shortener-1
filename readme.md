@@ -1,7 +1,7 @@
 # Url shortener
 A PHP script to short up URL.
 
-**License: MIT**
+<img src="https://cdn.juliandev.nl/license.svg" alt="License">
 
 This script uses LatteUI, and a little code of Vue.js.<br>
 This script will not be continued to development. 
