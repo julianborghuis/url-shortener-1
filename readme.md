@@ -3,6 +3,8 @@ A PHP script to short up URL.
 
 <img src="https://cdn.juliandev.nl/license.svg" alt="License">
 
+*If you need to see the project structure then please [click here.](STRUCTURE.md)*
+
 This script uses LatteUI, and a little code of Vue.js.<br>
 This script will not be continued to development. 
 
